@@ -1,0 +1,11 @@
+#################################
+#       tetris config           #
+#################################
+BLOCK_1: 9
+BLOCK_2: 10
+BLOCK_3: 11
+BLOCK_4: 12
+BLOCK_5: 13
+BLOCK_6: 14
+
+SCORE: myScore.txt
